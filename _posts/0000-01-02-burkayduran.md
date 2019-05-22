@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-fuck my life
+hello betches
 Use the left arrow to go back!
